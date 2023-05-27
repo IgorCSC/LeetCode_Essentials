@@ -31,6 +31,8 @@ The language of the solutions is Python.
 
 **Dynamic Programming**
 
+| Name                                | HTML                                                     | Status | 
+| ----------------------------------- | -------------------------------------------------------- | ----------- |
 | Climbing Stairs                     | [https://leetcode.com/problems/climbing-stairs/](https://leetcode.com/problems/climbing-stairs/) |
 | Coin Change                         | [https://leetcode.com/problems/coin-change/](https://leetcode.com/problems/coin-change/) |
 | Longest Increasing Subsequence      | [https://leetcode.com/problems/longest-increasing-subsequence/](https://leetcode.com/problems/longest-increasing-subsequence/) |
