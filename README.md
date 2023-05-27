@@ -11,8 +11,8 @@ The language of the solutions is Python.
 | Two Sum                             | [https://leetcode.com/problems/two-sum/](https://leetcode.com/problems/two-sum/) | Done | 
 | Best Time to Buy and Sell Stock     | [https://leetcode.com/problems/best-time-to-buy-and-sell-stock/](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | Done | 
 | Contains Duplicate                  | [https://leetcode.com/problems/contains-duplicate/](https://leetcode.com/problems/contains-duplicate/) | Done | 
-| Product of Array Except Self        | [https://leetcode.com/problems/product-of-array-except-self/](https://leetcode.com/problems/product-of-array-except-self/) |  | 
-| Maximum Subarray                    | [https://leetcode.com/problems/maximum-subarray/](https://leetcode.com/problems/maximum-subarray/) |  | 
+| Product of Array Except Self        | [https://leetcode.com/problems/product-of-array-except-self/](https://leetcode.com/problems/product-of-array-except-self/) | Done | 
+| Maximum Subarray                    | [https://leetcode.com/problems/maximum-subarray/](https://leetcode.com/problems/maximum-subarray/) | Done | 
 | Maximum Product Subarray            | [https://leetcode.com/problems/maximum-product-subarray/](https://leetcode.com/problems/maximum-product-subarray/) |  | 
 | Find Minimum in Rotated Sorted Array| [https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) |  | 
 | Search in Rotated Sorted Array      | [https://leetcode.com/problems/search-in-rotated-sorted-array/](https://leetcode.com/problems/search-in-rotated-sorted-array/) |  | 
@@ -44,8 +44,6 @@ The language of the solutions is Python.
 | Decode Ways                         | [https://leetcode.com/problems/decode-ways/](https://leetcode.com/problems/decode-ways/) |
 | Unique Paths                        | [https://leetcode.com/problems/unique-paths/](https://leetcode.com/problems/unique-paths/) |
 | Jump Game                           | [https://leetcode.com/problems/jump-game/](https://leetcode.com/problems/jump-game/) |
-
-
 
 **Graph**
 
@@ -85,7 +83,7 @@ The language of the solutions is Python.
 
 | Name | HTML | Status
 | ------------------------------------------------- | --------------------------------------------------------------| ----------- |
-| Longest Substring Without Repeating Characters     | [https://leetcode.com/problems/longest-substring-without-repeating-characters/](https://leetcode.com/problems/longest-substring-without-repeating-characters/) |
+| Longest Substring Without Repeating Characters     | [https://leetcode.com/problems/longest-substring-without-repeating-characters/](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | Done | 
 | Longest Repeating Character Replacement            | [https://leetcode.com/problems/longest-repeating-character-replacement/](https://leetcode.com/problems/longest-repeating-character-replacement/) |
 | Minimum Window Substring                           | [https://leetcode.com/problems/minimum-window-substring/](https://leetcode.com/problems/minimum-window-substring/) |
 | Valid Anagram                                      | [https://leetcode.com/problems/valid-anagram/](https://leetcode.com/problems/valid-anagram/) |
