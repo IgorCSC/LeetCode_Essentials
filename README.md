@@ -21,8 +21,8 @@ The language of the solutions is Python.
 
 **Binary**
 
-| Name                                | HTML                                                     |
-| ----------------------------------- | -------------------------------------------------------- |
+| Name                                | HTML                                                     | Status |
+| ----------------------------------- | -------------------------------------------------------- | ----------- |
 | Sum of Two Integers                 | [https://leetcode.com/problems/sum-of-two-integers/](https://leetcode.com/problems/sum-of-two-integers/) |
 | Number of 1 Bits                    | [https://leetcode.com/problems/number-of-1-bits/](https://leetcode.com/problems/number-of-1-bits/) |
 | Counting Bits                       | [https://leetcode.com/problems/counting-bits/](https://leetcode.com/problems/counting-bits/) |
@@ -32,7 +32,7 @@ The language of the solutions is Python.
 **Dynamic Programming**
 
 | Name                                | HTML                                                     | Status | 
-| ----------------------------------- | -------------------------------------------------------- | ----------- |
+| ----------------------------------- | -------------------------------------------------------- | ----------- | 
 | Climbing Stairs                     | [https://leetcode.com/problems/climbing-stairs/](https://leetcode.com/problems/climbing-stairs/) |
 | Coin Change                         | [https://leetcode.com/problems/coin-change/](https://leetcode.com/problems/coin-change/) |
 | Longest Increasing Subsequence      | [https://leetcode.com/problems/longest-increasing-subsequence/](https://leetcode.com/problems/longest-increasing-subsequence/) |
@@ -46,10 +46,11 @@ The language of the solutions is Python.
 | Jump Game                           | [https://leetcode.com/problems/jump-game/](https://leetcode.com/problems/jump-game/) |
 
 
+
 **Graph**
 
-| Name                                       | HTML                                                            |
-| ------------------------------------------ | --------------------------------------------------------------- |
+| Name | HTML | Status
+| ------------------------------------------ | --------------------------------------------------------------| ----------- |
 | Clone Graph                                | [https://leetcode.com/problems/clone-graph/](https://leetcode.com/problems/clone-graph/) |
 | Course Schedule                            | [https://leetcode.com/problems/course-schedule/](https://leetcode.com/problems/course-schedule/) |
 | Pacific Atlantic Water Flow                 | [https://leetcode.com/problems/pacific-atlantic-water-flow/](https://leetcode.com/problems/pacific-atlantic-water-flow/) |
@@ -61,8 +62,8 @@ The language of the solutions is Python.
 
 **Linked List**
 
-| Name                                       | HTML                                                            |
-| ------------------------------------------ | --------------------------------------------------------------- |
+| Name | HTML | Status
+| ------------------------------------------ | --------------------------------------------------------------| ----------- |
 | Reverse a Linked List                      | [https://leetcode.com/problems/reverse-linked-list/](https://leetcode.com/problems/reverse-linked-list/) |
 | Detect Cycle in a Linked List               | [https://leetcode.com/problems/linked-list-cycle/](https://leetcode.com/problems/linked-list-cycle/) |
 | Merge Two Sorted Lists                      | [https://leetcode.com/problems/merge-two-sorted-lists/](https://leetcode.com/problems/merge-two-sorted-lists/) |
@@ -73,8 +74,8 @@ The language of the solutions is Python.
 
 **Matrix**
 
-| Name                                       | HTML                                                            |
-| ------------------------------------------ | --------------------------------------------------------------- |
+| Name | HTML | Status
+| ------------------------------------------ | --------------------------------------------------------------| ----------- |
 | Set Matrix Zeroes                          | [https://leetcode.com/problems/set-matrix-zeroes/](https://leetcode.com/problems/set-matrix-zeroes/) |
 | Spiral Matrix                              | [https://leetcode.com/problems/spiral-matrix/](https://leetcode.com/problems/spiral-matrix/) |
 | Rotate Image                               | [https://leetcode.com/problems/rotate-image/](https://leetcode.com/problems/rotate-image/) |
@@ -82,8 +83,8 @@ The language of the solutions is Python.
 
 **String**
 
-| Name                                              | HTML                                                            |
-| ------------------------------------------------- | --------------------------------------------------------------- |
+| Name | HTML | Status
+| ------------------------------------------------- | --------------------------------------------------------------| ----------- |
 | Longest Substring Without Repeating Characters     | [https://leetcode.com/problems/longest-substring-without-repeating-characters/](https://leetcode.com/problems/longest-substring-without-repeating-characters/) |
 | Longest Repeating Character Replacement            | [https://leetcode.com/problems/longest-repeating-character-replacement/](https://leetcode.com/problems/longest-repeating-character-replacement/) |
 | Minimum Window Substring                           | [https://leetcode.com/problems/minimum-window-substring/](https://leetcode.com/problems/minimum-window-substring/) |
@@ -97,8 +98,8 @@ The language of the solutions is Python.
 
 **Tree**
 
-| Name                                              | HTML                                                            |
-| ------------------------------------------------- | --------------------------------------------------------------- |
+| Name | HTML | Status
+| ------------------------------------------------- | --------------------------------------------------------------| ----------- |
 | Maximum Depth of Binary Tree                       | [https://leetcode.com/problems/maximum-depth-of-binary-tree/](https://leetcode.com/problems/maximum-depth-of-binary-tree/) |
 | Same Tree                                         | [https://leetcode.com/problems/same-tree/](https://leetcode.com/problems/same-tree/) |
 | Invert/Flip Binary Tree                           | [https://leetcode.com/problems/invert-binary-tree/](https://leetcode.com/problems/invert-binary-tree/) |
@@ -116,8 +117,8 @@ The language of the solutions is Python.
 
 **Heap**
 
-| Name                                              | HTML                                                            |
-| ------------------------------------------------- | --------------------------------------------------------------- |
+| Name | HTML | Status
+| ------------------------------------------------- | --------------------------------------------------------------| ----------- |
 | Merge K Sorted Lists                               | [https://leetcode.com/problems/merge-k-sorted-lists/](https://leetcode.com/problems/merge-k-sorted-lists/) |
 | Top K Frequent Elements                            | [https://leetcode.com/problems/top-k-frequent-elements/](https://leetcode.com/problems/top-k-frequent-elements/) |
 | Find Median from Data Stream                       | [https://leetcode.com/problems/find-median-from-data-stream/](https://leetcode.com/problems/find-median-from-data-stream/) |
